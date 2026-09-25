@@ -1,0 +1,6 @@
+interface:
+  display_name: "周易玩辞白话研读"
+  short_description: "检索十六卷白话译本，解释卦爻与作者论证，附原页码及译本页码"
+  default_prompt: "使用 $zhouyi-wanci 解读《周易玩辞》中我关心的卦爻，并注明卷次与页码。"
+policy:
+  allow_implicit_invocation: true
